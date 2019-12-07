@@ -1,2 +1,2 @@
 # Nukkot
-Just trying out Kotlin in Nukkit.
+Small Nukkit plugin examples in Kotlin.
